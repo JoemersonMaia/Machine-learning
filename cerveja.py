@@ -25,7 +25,7 @@ X =X.replace({
 from sklearn import tree
 
 model = tree.DecisionTreeClassifier()
-
+2
 model.fit(X=X, y=y)
 
 # %%
